@@ -20,7 +20,6 @@
     + 翻转图片
     + 平移图片 
     + 旋转图片
-
 5. drawing
     + 画线
     + 画矩形
@@ -30,17 +29,19 @@
     + 添加文字
 6. code_performance
     + 代码性能优化
-7. slide_bar
+7. save-img
+    + 各种保存图片的方法
+8. slide_bar
     + 添加滑动条
-8. otsu
+9. otsu
     + Otsu阈值法
-9. affine_perspective
+10. affine_perspective
     + 仿射变换
     + 透视变换
-10. mouse_drawing
+11. mouse_drawing
     + 鼠标绘图
-11. dynamic_clock
+12. dynamic_clock
     + 时钟Demo
-12. image_add
+13. image_add
     + 图片混合
     + 按位操作
