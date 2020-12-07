@@ -50,9 +50,9 @@
     + 高斯滤波
     + 中值滤波
     + 双边滤波
-13. edge_detection
+15. edge_detection
     + 边缘检测
-14. corrosion-expansion
+16. corrosion-expansion
     + 腐蚀
     + 膨胀
     + 开运算
@@ -60,7 +60,7 @@
     + 形态学梯度
     + 顶帽
     + 黑帽
-15. contour
+17. contour
     + contour 
         - 寻找轮廓
         - 绘制轮廓
@@ -74,3 +74,21 @@
         - 最小外接圆
         - 拟合椭圆
         - 形状匹配
+18. histogram
+    + opencv 计算直方图
+    + Numpy计算直方图
+    + 绘制直方图
+    + 直方图均衡化
+    + 直方图自适应均衡化
+19. template-matching
+    + 模板匹配
+    + 匹配多个物体
+20. hough-transform
+    + 霍夫直线变换
+    + 统计概率霍夫直线变换
+    + 霍夫圆变换
+21. brightness-contrast
+    + 亮度与对比度
+22. convolution_padding
+    + padding填充
+    + 卷积
