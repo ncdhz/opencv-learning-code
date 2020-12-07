@@ -10,11 +10,11 @@
 2. threshold
     + 阈值分割
     + 自适应阈值
-3. image_manipulation
+3. image-manipulation
     + 图片属性
     + ROI
     + 通道分割与合并
-4. geometric_transformation
+4. geometric-transformation
     + 缩放图片
     + 翻转图片
     + 平移图片 
@@ -26,31 +26,31 @@
     + 画椭圆
     + 画多边形
     + 添加文字
-6. code_performance
+6. code-performance
     + 代码性能优化
 7. save-img
     + 各种保存图片的方法
-8. slide_bar
+8. slide-bar
     + 添加滑动条
 9. otsu
     + Otsu阈值法
-10. affine_perspective
+10. affine-perspective
     + 仿射变换
     + 透视变换
-11. mouse_drawing
+11. mouse-drawing
     + 鼠标绘图
-12. dynamic_clock
+12. dynamic-clock
     + 时钟Demo
-13. image_add
+13. image-add
     + 图片混合
     + 按位操作
-14. smooth_image
+14. smooth-image
     + 均值滤波
     + 方框滤波
     + 高斯滤波
     + 中值滤波
     + 双边滤波
-15. edge_detection
+15. edge-detection
     + 边缘检测
 16. corrosion-expansion
     + 腐蚀
@@ -89,6 +89,22 @@
     + 霍夫圆变换
 21. brightness-contrast
     + 亮度与对比度
-22. convolution_padding
+22. convolution-padding
     + padding填充
     + 卷积
+23. image-gradient
+    + Sobel算子
+    + Prewitt算子
+    + Scharr算子
+    + Laplacian算子
+24. contours-hierarchy
+    + 轮廓层级
+    + RETR_LISTs
+    + RETR_LIST
+    + RETR_EXTERNAL
+    + RETR_CCOMP
+25. convex-hull
+    + 多边形逼近
+    + 凸包
+26. lane-detection
+    + 车道检测Demo
